@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./.github/assets/icon.svg" alt="CyberTiX AI project icon" width="25" />
+  <img src="./.github/assets/icon.jpg" alt="CyberTiX AI project icon" width="25" />
 </p>
 
 GRCortex AI is a lightweight end-to-end governance, risk, and compliance intelligence prototype for AI systems. It demonstrates how semantic policy mapping, graph-based AI asset controls, and real-time telemetry evaluation can be combined into a single operational workflow for AI governance.

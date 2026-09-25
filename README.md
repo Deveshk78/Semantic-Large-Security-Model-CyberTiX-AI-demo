@@ -1,3 +1,15 @@
+# GRCortex AI Demo
+
+<p align="center">
+  <img src="header-banner.png" alt="CyberTiX AI banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="icon.svg" alt="CyberTiX AI project icon" width="25" />
+</p>
+
+GRCortex AI is a lightweight end-to-end governance, risk, and compliance intelligence prototype for AI systems. It demonstrates how semantic policy mapping, graph-based AI asset controls, and real-time telemetry evaluation can be combined into a single operational workflow for AI governance.
+
 # CyberTiX AI Security Operations Demo
 
 CyberTiX AI is a demonstration of an evidence-bound AI security operations pipeline for triaging high-risk telemetry, mapping threat behavior to MITRE ATT&CK, and enforcing deterministic policy gates before automated remediation.

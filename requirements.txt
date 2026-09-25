@@ -1,0 +1,2 @@
+# dataclasses is included in Python 3.7+; no separate package install is required.
+pytest>=7.0.0
